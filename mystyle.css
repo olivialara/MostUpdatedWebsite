@@ -1,0 +1,55 @@
+body{
+  background-color: #66d9ff; //medium blue
+  color: blue;
+}
+
+#headerDiv{
+  margin:auto;
+  width: 905px;
+  height:200px;
+  background-color:#b3ecff; //baby blue
+  border: solid white 5px;
+  margin:auto;
+}
+
+#wrapperDiv{
+  width: 905px;
+  height:800px;
+  border: solid white 3px;
+  background-color:#b3ecff; //baby blue
+  margin:auto;
+}
+
+#navDiv{
+  width: 900px;
+  height:50px;
+  border: solid white 3px;
+  background-color: #66d9ff; //medium blue
+  margin:auto;
+}
+
+#bodyDiv{
+  width: 900px;
+  height:370px;
+  border: solid white 3px;
+  background-color: #e6f9ff; //lightest blue
+}
+
+#footerDiv{
+  width: 900px;
+  height: 400px;
+  background-color: red; //baby blue
+  border: solid white 3px;
+}
+
+.buttonDiv{
+  width: 110px;
+  height:7px;
+  border: solid white 1px;
+  background-color: white;
+  float: left;
+  margin: 5px;
+  padding: 15px;
+  margin-left: 55px;
+  text-align: center;
+}
